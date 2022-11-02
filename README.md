@@ -83,9 +83,8 @@
 
  ---
 ### 📫 Get In Touch
-<!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)-->
-<!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/fozia-shareen-a2a14a1b2/)-->
-<a href="mailto:foziashareen1@gmail.com"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+
+<a href="https://www.linkedin.com/in/fozia-shareen-a2a14a1b2"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 &nbsp; &nbsp;
 <a href="mailto:foziashareen1@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
