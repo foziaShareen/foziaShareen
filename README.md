@@ -1,7 +1,4 @@
 
-- :open_file_folder:data scientist
-
-@@ -0,0 +1,97 @@
 # Fozia Shareen
 
 <h2 align="center">About me</h2>
