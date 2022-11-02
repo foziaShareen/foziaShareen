@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @foziaShareen
-- 👀 I’m interested in data Science  web development and iots...
-- 🌱 I’m currently learning  python machine learning.javascript,word press,html,css...
-- 💞️ I’m looking to collaborate on .web development..
-- 📫 How to reach me .foziashareen1@gmail.com..
+
 - :open_file_folder:data scientist
 
 @@ -0,0 +1,97 @@
-# Angel Jaime
+# Fozia Shareen
 
 <h2 align="center">About me</h2>
 
@@ -26,18 +22,18 @@ func GetBio() Bio {
 		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
 		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
 		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
+		"- 👯 I’m looking to collaborate on": "Python, Data Science , Machine learning ,webdevelopment"
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
+		"- 📫 How to reach me:":              "https://github.com/foziaShareen#you-can-reach-me-at-alien",
 	}
 }
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">You can reach me at :Pakitan:</h2>
 
 <p align="center">
-  <a href="https://dev.to/anhello">
+  <a href="https://www.youtube.com/channel/UCU2-Nk-nQT_kcKa30pl-VZA">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
   </a>
 
@@ -57,7 +53,7 @@ func GetBio() Bio {
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
   </a>
 
-  <a href="https://gitlab.com/AnhellO">
+  <a href="https://gitlab.com/foziaShareen">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
   </a>
 
@@ -98,4 +94,4 @@ func GetBio() Bio {
 
 ---
 
-⭐️ From [@AnhellO](https://github.com/AnhellO)
+⭐️ From [@foziaShareen](https://github.com/foziaShareen)
