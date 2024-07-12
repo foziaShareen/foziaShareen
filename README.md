@@ -88,6 +88,6 @@
 &nbsp; &nbsp;
 <a href="mailto:foziashareen1@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 &nbsp; &nbsp;
-
+<a href="https://www.youtube.com/@data_scientist">@data_scientist channel</a>
 ⭐️ From [FoziaShareen](https://github.com/foziaShareen) with :sparkling_heart: 
 <img align="right" width="70" height="25" src="https://visitor-badge.glitch.me/badge?page_id=quananhle.quananhle0">
